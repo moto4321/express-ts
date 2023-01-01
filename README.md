@@ -24,3 +24,8 @@ tsc --init
   "start": "tsc && node dist/server/index.js
 }
 ```
+
+### 서버 실행
+```
+npm run start
+```
